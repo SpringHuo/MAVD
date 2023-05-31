@@ -2,7 +2,7 @@
 ### Introduce
 In order to address the challenges of scarce open datasets and low-quality data in the field of Chinese Mandarin, our team built MAVD, a multimodal dataset containing text, audio, video, and in particular, MAVD used Microsoft's latest depth camera, Azure Kinect, to synchronize the acquisition of corresponding depth images in order to investigate the help of depth images in multimodal tasks.
  
-MAVD comprising 12,484 utterances spoken by 64 native Chinese speakers, with a total duration of about 24 hours. The speakers included 35 male as well as 29 female speakers with an average age of 23 years. The reading material is our carefully selected textual statements collected from numerous open source media (Weibo, Douban, People's Daily, etc.) in Chinese usage scenarios. Four different topics were covered: daily life, news, novels, and ancient poems. After collecting all the raw corpus, we cleaned and filtered the text, and finally reviewed it manually. The percentage of each theme is roughly 10:5:4:1.
+MAVD comprising 12,484 utterances spoken by 64 native Chinese speakers, with a total duration of about 24 hours. The speakers included 35 male as well as 29 female speakers with an average age of 23 years. The reading material is our carefully selected sentences collected from numerous open source media (Weibo, Douban and People's Daily, etc.) in Chinese usage scenarios. Four different topics were covered: daily life, news, novels, and ancient poems. After collecting all the raw corpus, we cleaned and filtered the text, and finally reviewed it manually. The percentage of each theme is roughly 10:5:4:1.
 
 <p align="center" width="100%">
     <img width="40%" src="image/speakers.png"> 
