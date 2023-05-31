@@ -5,14 +5,14 @@
 MAVD中包含了64位说话人阅读的12484条数据，总时长约为24小时。其中说话人包括35位男性以及29位女性说话人，平均年龄为23岁。阅读材料为我们精心挑选的文本语句，采集自在中文使用场景下的众多开源媒体（微博、豆瓣、人民日报等）。涵盖了日常生活类、新闻类、小说类以及古诗词四个不同主题。在采集所有的生语料之后，我们进行了文本的清洗以及筛选，并在最后经过了人工审查。各个主题占比粗略为10:5:4:1。
 
 <p align="center" width="100%">
-    <img width="33%" src="image/speakers.png"> 
+    <img width="100%" src="image/speakers.png"> 
 </p>
-
-![Image text](image/speakers.png)
 
 MAVD采集自可以隔绝外部噪声并且吸收回音的静音室中，具体的场景设置如下图所示。所有采集人员使用我们所开发的多模态数据采集系统进行数据录制，每位说话人阅读约200句语句。最后，在录制结束后，我们对所有数据进行了检查以及挑选，并且通过MFA对语音进行了音素级的标注。更加详细的介绍可以关注我们在InterSpeech2023中所介绍的论文。
 
-![Image text](image/setting.jpg)
+<p align="center" width="100%">
+    <img width="33%" src="image/setting.jpg"> 
+</p>
 
 ![Image text](image/setting2.jpeg)
 
