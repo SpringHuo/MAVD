@@ -24,7 +24,7 @@ In this project, a single statement example is uploaded and the MAVD specific da
 "COLOR\_IMAGE" stores the RGB image sequence of each utterance, the image format is "xxx\_xxxxxxxxx\_color.jpg", where the first 3 characters are the image serial number, the last 9 characters are the image time stamp, the resolution is 1920 x 1080, 30fps; "DEPTH\_IMAGE" is similar to the RGB image storage format, the resolution of the depth image is 640 x 576. "TEXT" stores the text of the sentence, the pinyin and audio annotation files (textgrid).
 
 <p align="center" width="100%">
-    <img width="20%" src="image/tree.png"> 
+    <img width="33%" src="image/tree.png"> 
 </p>
 
 ### Current status and how to get MAVD
