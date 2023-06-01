@@ -29,3 +29,5 @@ In this project, a single statement example is uploaded and the MAVD specific da
 
 ### Current status and how to get MAVD
 We are currently in the process of finalizing and checking MAVD and trying to invite more people to participate in the recording to further enrich the age and regional distribution of the speakers in MAVD. The complete MAVD dataset is expected to be released in October this year, and we will review your application and discuss with you the distribution of MAVD. Thank you again for your interest.
+
+#### Contact: avrillliu@hkust-gz.edu.cn yuchenhuo@tju.edu.cn
