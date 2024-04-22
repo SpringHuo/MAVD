@@ -1,7 +1,7 @@
 ## <center>MAVD: The First Open Large-Scale Mandarin Audio-Visual Dataset with Depth Information</center>
 ### Introduce
 In order to address the challenges of scarce open datasets and low-quality data in the field of Chinese Mandarin, our team built MAVD, a multimodal dataset containing text, audio, video, and in particular, MAVD used Microsoft's latest depth camera, Azure Kinect, to synchronize the acquisition of corresponding depth images to investigate the help of depth images in multimodal tasks.
- 
+
 MAVD comprises 12,484 utterances spoken by 64 native Chinese speakers, with a total duration of about 24 hours. The speakers included 35 male as well as 29 female speakers with an average age of 23 years. The reading material is our carefully selected sentences collected from numerous open-source media (Weibo, Douban, People's Daily, etc.) in Chinese usage scenarios. Four different topics were covered: daily life, news, novels, and ancient poems. After collecting all the raw corpus, we cleaned and filtered the text, and finally reviewed it manually. The percentage of each theme is roughly 10:5:4:1.
 
 <p align="center" width="100%">
@@ -28,6 +28,6 @@ In this project, a single statement example is uploaded and the MAVD specific da
 </p>
 
 ### Current status and how to get MAVD
-We are currently in the process of finalizing and checking MAVD and trying to invite more people to participate in the recording to further enrich the age and regional distribution of the speakers in MAVD. The complete MAVD dataset is expected to be released in October this year, and we will review your application and discuss with you the distribution of MAVD. Thank you again for your interest.
+The MAVD dataset has been cleaned and organized. It is now available for download. If you need access to the dataset, please contact Professor Bi at Tianjin University (email: *bkb@tju.edu.cn*). Please note to download and fill out the relevant application form first.Thank you again for your interest.
 
-#### Contact: avrillliu@hkust-gz.edu.cn; yuchenhuo@tju.edu.cn
+#### Contact: bkb@tju.edu.cn、avrillliu@hkust-gz.edu.cn、yuchenhuo@tju.edu.cn
